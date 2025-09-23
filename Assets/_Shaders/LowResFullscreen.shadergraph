@@ -58,6 +58,9 @@
         },
         {
             "m_Id": "e23526f08d894dd28c2505cc2f8db79c"
+        },
+        {
+            "m_Id": "1bcb1a8c997c4279ba754ffc7c7818cf"
         }
     ],
     "m_StickyNoteDatas": [],
@@ -452,6 +455,17 @@
         "g": 0.5,
         "b": 0.5,
         "a": 1.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.GroupData",
+    "m_ObjectId": "1bcb1a8c997c4279ba754ffc7c7818cf",
+    "m_Title": "New uv",
+    "m_Position": {
+        "x": -507.199951171875,
+        "y": -538.3999633789063
     }
 }
 
@@ -1377,7 +1391,7 @@
     "m_Type": "UnityEditor.ShaderGraph.DivideNode",
     "m_ObjectId": "d1c53dc2b00347a9aaa077e467d7d992",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "1bcb1a8c997c4279ba754ffc7c7818cf"
     },
     "m_Name": "Divide",
     "m_DrawState": {
@@ -1498,7 +1512,7 @@
     "m_ObjectId": "e23526f08d894dd28c2505cc2f8db79c",
     "m_Title": "Pixel Coord",
     "m_Position": {
-        "x": -1835.19970703125,
+        "x": -1835.1998291015625,
         "y": -941.5999145507813
     }
 }
@@ -1547,8 +1561,8 @@
     "m_ObjectId": "eea7c63283034b2a8eb8ffa58217e3b4",
     "m_Title": "Resolution",
     "m_Position": {
-        "x": -2199.19970703125,
-        "y": -517.599853515625
+        "x": -2199.199951171875,
+        "y": -517.5999145507813
     }
 }
 
@@ -1564,9 +1578,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1659.1998291015625,
-            "y": -328.7998962402344,
-            "width": 116.0,
+            "x": -1601.5997314453125,
+            "y": -457.5999755859375,
+            "width": 116.7999267578125,
             "height": 33.5999755859375
         }
     },
