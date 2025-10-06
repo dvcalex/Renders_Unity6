@@ -118,7 +118,7 @@ Material:
     - _WorkflowMode: 1
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
-    - _cellSize: 6
+    - _cellSize: 7.1
     - _fragments: 85.2
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
