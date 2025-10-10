@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_CRT_Fullscreen
-  m_Shader: {fileID: -6465566751694194690, guid: 318f3f22634661f4098369dcf892eb6f, type: 3}
+  m_Name: SimpleOutlines_Fullscreen_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: dcd919b1e5315f64999f9070ab8d2e59, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -37,10 +37,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BlurOffset: 0.001
-    - _ScanLineSpeed: 0.005
-    - _ScanLines: 200
+    - _StepEdge: 0.001
+    - _Thickness: 0.0432
     m_Colors:
-    - _Color: {r: 2.79544, g: 2.79544, b: 2.79544, a: 1}
+    - _Color: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
