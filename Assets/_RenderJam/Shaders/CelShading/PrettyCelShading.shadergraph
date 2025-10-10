@@ -1378,7 +1378,7 @@
     "m_ObjectId": "163fed0fcf204096a30f472292e5f60f",
     "m_Title": "Fresnel Calculation",
     "m_Position": {
-        "x": -1215.9998779296875,
+        "x": -1216.0,
         "y": -1820.7999267578125
     }
 }
@@ -3518,8 +3518,8 @@
     "m_ObjectId": "781fd5e3cee44448827fb7895c6a99cb",
     "m_Title": "Diffuse Calculations (n • l)",
     "m_Position": {
-        "x": -2319.999755859375,
-        "y": 256.7998046875
+        "x": -2320.0,
+        "y": 256.800048828125
     }
 }
 
@@ -4217,8 +4217,8 @@
     "m_ObjectId": "9ecf55e59d2c46109a8b2222910634db",
     "m_Title": "Specular Calculations (n • h)",
     "m_Position": {
-        "x": -2415.199951171875,
-        "y": -984.0
+        "x": -2415.2001953125,
+        "y": -983.9999389648438
     }
 }
 
